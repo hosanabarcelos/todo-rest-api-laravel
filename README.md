@@ -1,8 +1,8 @@
 <div>
-  <img src="https://laravel.com/img/logomark.min.svg" width="100" height="100" />
+  <img src="https://github.com/hosanabarcelos/todo-tasks/blob/main/.github/images/banner.png" />
 </div>
 
-# TODO Tasks API (Laravel)
+# TODO Tasks API
 
 ## 📁 Sobre o projeto
 Este projeto faz parte da atividade da disciplina **Arquitetura de Serviços**, do professor **Leonardo Guerreiro**, no curso de MBA em Engenharia de Software pela UFRJ.
